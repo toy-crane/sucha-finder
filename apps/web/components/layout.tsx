@@ -1,7 +1,7 @@
 import { Children, ReactNode, isValidElement } from "react"
 import styled from "@emotion/styled"
 import { Box } from "@mui/material"
-import { Container } from "@mui/system"
+import { Container } from "@mui/material"
 
 interface Layout {
   children: ReactNode
